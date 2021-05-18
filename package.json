@@ -1,0 +1,16 @@
+{
+  "name": "just-copy-paste",
+  "version": "1.0.0",
+  "description": "Chrome extension to copy code to clipboard.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Satwik Gupta",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
