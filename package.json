@@ -1,7 +1,7 @@
 {
   "name": "just-copy-paste",
   "version": "1.0.0",
-  "description": "Chrome extension to copy code to clipboard.",
+  "description": "Chrome extension to copy code snippets to clipboard.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {

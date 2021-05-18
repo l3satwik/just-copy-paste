@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Copy Code",
-  "description": "",
+  "name": "Code Copier",
+  "description": "Double click on a code snippet to copy entire code to clipboard.",
   "version": "1.0.0",
   "icons": {
     "128": "./assets/icon-128.png"
